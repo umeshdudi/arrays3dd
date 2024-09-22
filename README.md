@@ -7,3 +7,4 @@ Diagonal Element Emphasis: Focuses on critical intersections of data, elucidatin
 Plotly's Dynamic Visualization: Leverages cutting-edge interactive graphics to present data in a visually compelling manner, facilitating real-time exploration and manipulation of variables.
 
 Multi-Dimensional Insight Extraction: Engages users in a complex analytical journey, allowing them to delve into nuanced trends and derive ultimate conclusions from a richly layered dataset.
+NOTE : the files 'first' and 'testing2' are suppose to be in the same folder before execution
